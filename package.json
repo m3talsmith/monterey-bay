@@ -1,0 +1,34 @@
+{
+  "name": "monterey-bay",
+  "version": "0.0.0",
+  "description": "An open source social dashboard platform with the most liberal OSS license possible. Our platforms should be free.",
+  "main": "app.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/m3talsmith/monterey-bay.git"
+  },
+  "keywords": [
+    "gplus",
+    "twitter",
+    "facebook",
+    "google",
+    "plus",
+    "social",
+    "post",
+    "stream",
+    "analytics"
+  ],
+  "author": "Michael Christenson II",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/m3talsmith/monterey-bay/issues"
+  },
+  "homepage": "https://github.com/m3talsmith/monterey-bay",
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "chai": "~1.8.1"
+  }
+}
